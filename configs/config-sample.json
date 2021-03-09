@@ -1,0 +1,6 @@
+{
+  "username" : "user",
+  "password" : "password",
+  "port" : 2221,
+  "portRange" : "10200-10300"
+}
